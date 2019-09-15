@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Tech-store-react-redux/static/js/runtime~main.a0b880a7.js"
   },
   {
-    "revision": "8a4b5e86309ce39e7d9d",
-    "url": "/Tech-store-react-redux/static/js/main.8a4b5e86.chunk.js"
+    "revision": "6dbc43ff9aa40e7d4f89",
+    "url": "/Tech-store-react-redux/static/js/main.6dbc43ff.chunk.js"
   },
   {
     "revision": "caf33f51f742146219fc",
     "url": "/Tech-store-react-redux/static/js/2.caf33f51.chunk.js"
   },
   {
-    "revision": "8a4b5e86309ce39e7d9d",
+    "revision": "6dbc43ff9aa40e7d4f89",
     "url": "/Tech-store-react-redux/static/css/main.e25db28e.chunk.css"
   },
   {
-    "revision": "274f08431d93420c945c3199cb1bd003",
+    "revision": "25df75770846c432c0a2640a64fb1f86",
     "url": "/Tech-store-react-redux/index.html"
   }
 ];
